@@ -1,0 +1,10 @@
+<!--esercizio 1-->
+<?xml version="1.0" encoding="utf-8"?>
+<book>
+  <title>Pride and Prejudice</title>
+  <author>Jane Austen
+  <date>28.01.1813</author>
+  </date>
+  <place>England</place>
+</book>
+<!-- documento XML NON correttamente annidato-->  

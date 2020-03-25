@@ -1,0 +1,9 @@
+ <!-- esercizio 2-->
+<?xml version="1.0" encoding="utf-8"?>
+<text> il primo xml con validazione del
+   <date> 2020 </date>
+<!-- aggiungo il figlio date all'elemento text-->
+</text>
+<text> del corso Codifica di Testi
+<!-- aggiungo il fratello text all'elemento text-->
+</text>
