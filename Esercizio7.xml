@@ -1,0 +1,12 @@
+<!-- Moretti Francesca , matricola : 518305-->
+<?xml version=”1.0” encoding=”UTF-8” ?>
+<!DOCTYPE radice SYSTEM “./schema/Esercizio7.dtd”>
+<TEI>
+	<header type = "intestazione" , lang = "ita"> contenuto testuale </header>
+	<facsimile source = "http..." , ref = ""> contenuto testuale </facsimile>
+	<testo id = "ID" , type ="testogenerale"> possibile contenuto testuale
+		<seg>
+		</seg>
+	</testo>
+</TEI>
+
