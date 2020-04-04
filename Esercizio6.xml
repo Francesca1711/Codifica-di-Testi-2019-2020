@@ -1,0 +1,8 @@
+
+<!-- Moretti Francesca , matricola : 518305-->
+<?xml version=”1.0” encoding=”UTF-8” ?>
+<!DOCTYPE radice SYSTEM “./schema/Esercizio6.dtd”>
+<nota nome="Lettera">
+    <a>Paolo</a>
+    <da>Franco</da> 
+</nota>

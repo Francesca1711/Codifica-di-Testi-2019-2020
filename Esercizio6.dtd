@@ -1,0 +1,4 @@
+<!ELEMENT nota(a, da)>
+<!ELEMENT a (#PCDATA)>
+<!ELEMENT da (#PCDATA)>
+<!ATTLIST nota nome #PCDATA #REQUIRED>
