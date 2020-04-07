@@ -2,12 +2,13 @@
 <!ELEMENT header(#PCDATA)>
 <!ELEMENT facsimile(#PCDATA)>
 <!ELEMENT testo(#PCDATA|seg)>
+<!ELEMENT seg (#PCDATA)>
 <!ATTLIST header
 type CDATA #FIXED "intestazione"
 lang NMTOKEN #IMPLIED>
 <!ATTLIST facsimile 
-source #REQUIRED
+source PCDATA #REQUIRED
 ref IDREFS #IMPLIED>
 <!ATTLIST testo 
 id ID #REQUIRED
-type #IMPLIED CDATA>
+type PCDATA #IMPLIED>
