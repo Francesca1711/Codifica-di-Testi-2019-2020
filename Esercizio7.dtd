@@ -1,7 +1,7 @@
 <!ELEMENT TEI(header,facsimile?,testo+)>
 <!ELEMENT header(#PCDATA)>
 <!ELEMENT facsimile(#PCDATA)>
-<!ELEMENT testo(#PCDATA|seg)>
+<!ELEMENT testo(#PCDATA|seg)*>
 <!ELEMENT seg (#PCDATA)>
 <!ATTLIST header
 type CDATA #FIXED "intestazione"
