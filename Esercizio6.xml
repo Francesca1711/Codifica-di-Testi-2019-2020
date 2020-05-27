@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE radice SYSTEM "Esercizio6.dtd">
+<radice>
+    <nota nome = "Lettera">
+       <a> Paolo </a>
+       <da> Franco </da> 
+    </nota>
+</radice>    
+<!-- Moretti Francesca , matricola : 518305-->
