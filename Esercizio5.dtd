@@ -1,6 +1,6 @@
 <!--Francesca Moretti matricola 518305-->
 <!ELEMENT TEI (header, facsimile?, text+)>
-<!--Elemento root che ha come figli header,facsimile, text-->
+<!--Elemento root che ha come figli: header(obbligatorio 1 sola volta), facsimile (0 o 1 volta), text(1 o infiniti figli)-->
 <!ELEMENT header (#PCDATA)>
 <!--Elemento header cha ha content model testuale-->
 <!ELEMENT facsimile (#PCDATA)>
